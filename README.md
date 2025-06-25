@@ -62,7 +62,7 @@ python scripts/random_forest_regression_r2.py
 ---
 
 ## 📊 Output
-- `rf_actual_vs_predicted.png` — Scatterplot of predicted vs. actual pIC50 (similar to Figure 2 in the paper)
+- `outputs/rf_actual_vs_predicted.png` — Scatterplot of predicted vs. actual pIC50 (similar to Figure 2 in the paper)
 
 ---
 
