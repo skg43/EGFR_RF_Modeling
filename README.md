@@ -13,7 +13,7 @@ Nada et al. (2023) - *A Machine Learning-Based Approach to Developing Potent EGF
 - [x] Add support for XGBoost model (from paper Table 1)
 - [ ] Implement molecular docking pipeline (`docking.py`) using PDB: 1M17
 - [ ] Compare predicted vs. experimental pIC50 for designed ligands
-- [ ] Deploy a Streamlit web app for user-friendly prediction interface (optional)
+
 
 ---
 
