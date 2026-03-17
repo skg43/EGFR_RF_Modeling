@@ -35,7 +35,7 @@ r2_test = r2_score(y_test, y_pred_test)
 rmse = np.sqrt(mean_squared_error(y_test, y_pred_test))
 mae = mean_absolute_error(y_test, y_pred_test)
 
-print("✅ Random Forest Regressor Performance:")
+print("Random Forest Regressor Performance:")
 print(f"R² (Train): {r2_train:.3f}")
 print(f"R² (Test) : {r2_test:.3f}")
 print(f"RMSE      : {rmse:.3f}")
