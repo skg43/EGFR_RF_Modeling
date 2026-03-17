@@ -35,7 +35,7 @@ r2_test = r2_score(y_test, y_test_pred)
 rmse_test = np.sqrt(mean_squared_error(y_test, y_test_pred))
 mae_test = mean_absolute_error(y_test, y_test_pred)
 
-print("✅ XGBoost Regressor Performance:")
+print("XGBoost Regressor Performance:")
 print(f"R² Train = {r2_train:.3f}")
 print(f"R² Test  = {r2_test:.3f}")
 print(f"RMSE     = {rmse_test:.3f}")
